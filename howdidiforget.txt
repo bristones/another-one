@@ -1,2 +1,5 @@
+master
 always remember to cd the folder youre working on before clearing a file. lol!
 keep this on the finger tips not in mind.....
+Another code added by peter here...always remember to cd the folder youre working on before crearing a file. lol!
+master 
